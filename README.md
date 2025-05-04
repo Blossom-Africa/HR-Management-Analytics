@@ -1,4 +1,4 @@
-# 👥 HR Management Analytics Dashboard – Power BI
+# 👥 HR Management Analytics Dashboard
 
 This project showcases a comprehensive **Human Resource Analytics Dashboard** developed in **Power BI**. Designed as part of our internal business analytics initiative, the dashboard provides a clear and actionable overview of workforce dynamics—leveraging data to support HR decision-making, diversity analysis, and attrition monitoring.
 
